@@ -5,8 +5,8 @@ weight: 40
 type: "docs"
 ---
 
-The Knative Steering Committee (KSC) is the ultimate authority for the Knative
-project, and governs all aspects of the project.
+The Knative Steering Committee is the highest authority within the Knative
+project and governs most aspects of the project.
 
 The governance of Knative is an open, living document, and will continue to
 evolve as the community and project change. We expect over time we will adapt
@@ -35,7 +35,7 @@ the way we run this committee, based on feedback from the community.
    disposition of those resources.
 1. Manage the Knative brand and decide which things can be called "Knative" and
    how that mark can be used in relation to other efforts or vendors.
-1. Confirm/reject nominations to the KSC from organizations who are allocated
+1. Confirm/reject nominations to Steering from organizations who are allocated
    seats.
 1. Confirm/reject nominations to the Technical Oversight Committee.
 1. Receive and handle reports about [code of conduct](./CODE-OF-CONDUCT.md)
@@ -46,33 +46,39 @@ the way we run this committee, based on feedback from the community.
 1. Act as the final escalation point and decider for any disputes, issues,
    clarifications, or escalations within the project scope.
 
+## IP Ownership
+
+As a Google project, Knative's trademark enforcement is handled by Google.
+Steering is empowered to make decisions about what is and isn't approriate use of 
+the trademarks and additional IP, but does not have the authority to change the
+ownership of the Knative IP.
+
 ## Delegated authority
 
-KSC may choose to delegate its authority to other committees as-needed. The
-committee currently recognizes this delegated authority for:
+Steering may choose to delegate its authority to other committees or workgroups
+as-needed. The committee currently recognizes this delegated authority for:
 
-- Technical guidance is delegated to the
+- Technical guidance for the project is delegated to the
   [Technical Oversight Committee](./TECH-OVERSIGHT-COMMITTEE.md).
 
 ## Committee Meetings
 
-KSC meets every two weeks, or as-needed. Meetings are held online.
+Steering meets weekly, or as-needed. Meetings are held online.
 
 Given the private nature of many of these discussions (e.g. privacy, private
 emails to the committee, code of conduct violations, escalations, disputes
 between members, security reports, etc.) meetings are held in private.
 
-Meeting notes are available to members of the knative-dev mailing list (link to
-be added).
+Once a month, a public Steering meeting will be held to provide
+visibility into the project leadership and answer community questions.
 
-Questions and proposals for changes to governance are posted as issues in the
-[docs repo](https://github.com/knative/docs), and the KSC invites your feedback
-there. See [Getting in touch](#getting-in-touch) for other options.
+Questions and proposals for changes to governance should be posted as issues in the
+[community repo](https://github.com/knative/community). Steering invites your feedback there. 
+See [Getting in touch](#getting-in-touch) for other options.
 
 ## Committee members
 
-Seats on the Steering Committee are held by an organization, not by the
-individual.
+Seats on Steering are held by an organization, not by the individual.
 
 The committee was created as the project was in its infancy, in order to tackle
 governance and overall project strategy. Because of the nature of the project
@@ -139,7 +145,7 @@ single delegate from the same company during the absence.
 
 ## Changes to the charter
 
-Changes to the KSC charter may be proposed via a Pull Request on the charter
+Changes to the Steering charter may be proposed via a Pull Request on the charter
 itself. Amendments are accepted with majority consent of the committee.
 
 Proposals and amendments to the charter are available for at least a period of
@@ -153,8 +159,7 @@ There are two ways to raise issues to the steering committee for decision:
    [knative-steering@googlegroups.com](mailto:knative-steering@googlegroups.com).
    This is a private discussion list to which all members of the committee have
    access.
-2. Open an issue on a knative repository and indicate that you would like attention
-   from the steering committee.
+2. Open an issue on a knative community repo.
 
 ---
 
